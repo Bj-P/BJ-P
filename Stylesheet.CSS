@@ -1,5 +1,6 @@
 body {
-  background-image: "giphy.gif";
+  background-image: url("giphy.gif");
+  background-size: 100000px;
 }
 h1 {
   color: rgba(0, 161, 86, 0.904);
