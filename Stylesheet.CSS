@@ -5,22 +5,28 @@ h1 {
   color: rgba(0, 161, 86, 0.904);
 }
 p {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 ul {
-  list-style-type: initial;
-  margin: 20;
+  list-style-type: none;
+  margin: 0;
   padding: 0;
   overflow: hidden;
+  position: fixed;
+  top: 10;
+  width: 100%;
 }
-
+ 
 li {
   float: left;
+  
 }
 
 li a {
+  font-size: 22px;
+  color: darkred;
   display: block;
-  padding: 12px;
-  background-color: #dddddd;
+  padding: 30px;
+  background-color: none;
 }
