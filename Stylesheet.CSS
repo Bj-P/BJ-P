@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(156, 6, 6);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+ul {
+    list-style-type: none;
+    margin: 01;
+    padding: 30;
+    overflow: hidden;
+    position: fixed;
+    top: 10;
+    width: 100%;
+    color: crimson;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-size: 22px;
+    display: block;
+    padding: 30px;
+    color: darkred;
+    background-color: none;
+}
