@@ -1,0 +1,26 @@
+h1 {
+    font-family: fantasy;
+    color: rgb(0, 183, 255);
+}
+
+h2 {
+    font-family: sans-serif;
+    color: mediumturquoise;
+}
+
+a {
+    color: olivedrab;
+}
+
+c {
+    color: rgb(167, 245, 157);
+}
+
+ul {
+    color: mediumvioletred;
+}
+
+body {
+    background-image: url("Pictures/Waal.jpg");
+    background-size: 200px 410px, cover;
+}
