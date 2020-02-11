@@ -11,7 +11,7 @@ h2 {
 a {
     color: gainsboro;
     position: sticky;
-    top: 0;
+    top: 10;
 }
 
 ul {
