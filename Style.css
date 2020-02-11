@@ -3,6 +3,11 @@ h1 {
     color: grey;
 }
 
+h2 {
+    font-family: sans-serif;
+    color: mediumturquoise;
+}
+
 body {
     background-image: url("Pictures/Waal.jpg");
     background-size: 200px 430px, cover;
