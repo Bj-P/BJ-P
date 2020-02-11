@@ -8,6 +8,10 @@ h2 {
     color: mediumturquoise;
 }
 
+p {
+    color: mediumvioletred;
+}
+
 body {
     background-image: url("Pictures/Waal.jpg");
     background-size: 200px 410px, cover;
