@@ -21,9 +21,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 33%;
-    border-style: inherit;
     border-radius: 8px;
-    border: black;
+    border: 3px solid black;
 }
 
 body {
