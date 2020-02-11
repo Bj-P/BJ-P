@@ -6,5 +6,5 @@ h1 {
 body {
     color: crimson;
     background-image: url("Pictures/Waal.jpg");
-    background-size: 300px 100px, cover;
+    background-size: 600px 100px, cover;
 }
