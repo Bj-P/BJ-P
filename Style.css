@@ -5,6 +5,6 @@ h1 {
 }
 
 body {
-    background-image: url(Waal.jpg);
+    background-image: href="Waal.jpg";
     background-size: contain;
 }
