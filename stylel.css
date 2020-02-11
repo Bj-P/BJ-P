@@ -24,6 +24,6 @@ ul {
 }
 
 body {
-    background-image: url("Pictures/Waal.jpg") left top, url("Pictures/fool.jpg") top, url("Pictures/magician.jpg") right top, url("Pictures/Priestress.jpg") left bottom, url("Pictures/emperor.jpg") bottom, url("Pictures/empress.jpg") right bottom, url("Pictures/hirophant.jpg");
-    background-size: auto;
+    background-image: url("Pictures/Waal.jpg"), url("Pictures/fool.jpg"), url("Pictures/magician.jpg"), url("Pictures/Priestress.jpg"), url("Pictures/emperor.jpg"), url("Pictures/empress.jpg"), url("Pictures/hirophant.jpg");
+    background-size: 10px 15px, 10px 15px, 10px 15px, 10px 15px, 10px 15px, 10px 15px, 10px 15px, ;
 }
