@@ -16,9 +16,17 @@ ul {
     color: mediumvioletred;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 body {
     background-image: url("Pictures/Paper.jpg");
-    background-size: cover;
+    background-repeat: repeat;
+    background-size: contain;
 }
 
 
