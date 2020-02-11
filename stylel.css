@@ -12,13 +12,6 @@ a {
     color: olivedrab;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 ul {
     color: mediumvioletred;
 }
@@ -26,6 +19,6 @@ ul {
 body {
     background-image: url("Pictures/Waal.jpg"), url("Pictures/fool.jpg"), url("Pictures/magician.jpg"), url("Pictures/Priestress.jpg"), url("Pictures/emperor.jpg"), url("Pictures/empress.jpg"), url("Pictures/hirophant.jpg");
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 35%;
     background-position: left bottom, left, right, left top, right top, top, right bottom;
 }
