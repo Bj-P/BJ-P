@@ -10,6 +10,9 @@ h2 {
 
 a {
     color: gainsboro;
+}
+
+li {
     position: sticky;
     top: 0;
 }
