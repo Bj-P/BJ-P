@@ -3,6 +3,6 @@ h1 {
 }
 
 body {
-    background-image: url(Waal.jpg);
-    background-size: contain;
+    background-image: url(/Pictures/Waal.jpg);
+    background-size: cover;
 }
