@@ -21,7 +21,8 @@ ul {
 }
 
 img {
-    size: 20%;
+    border: 5px black;
+    border-radius: 1px;
 }
 
 body {
