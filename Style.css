@@ -1,10 +1,9 @@
 h1 {
     font-family: fantasy;
-    color: crimson;
+    color: grey;
 }
 
 body {
-    color: crimson;
     background-image: url("Pictures/Waal.jpg");
     background-size: 200px 430px, cover;
 }
