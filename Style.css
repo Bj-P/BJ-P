@@ -20,6 +20,10 @@ ul {
     color: mediumvioletred;
 }
 
+img {
+    size: 30%;
+}
+
 body {
     background-image: url("Pictures/Wallpaper.jpg");
     background-size: 200px 410px, cover;
