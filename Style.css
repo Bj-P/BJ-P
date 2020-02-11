@@ -18,6 +18,10 @@ c {
     color: rgb(167, 245, 157);
 }
 
+m {
+    align-items: center;
+}
+
 ul {
     color: mediumvioletred;
 }
