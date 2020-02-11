@@ -1,8 +1,9 @@
 h1 {
-    color: rgba(0, 0, 0);
+    color: crimson;
 }
 
 body {
+    color: crimson;
     background-image: url("Pictures/Waal.jpg");
     background-size: cover;
 }
