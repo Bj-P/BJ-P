@@ -2,7 +2,7 @@ h1 {
     color: rgba(0, 0, 0);
 }
 
-#Pictures {
-    background-image: href="Waal.jpg";
+body {
+    background-image: url(Waal.jpg);
     background-size: contain;
 }
