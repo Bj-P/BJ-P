@@ -25,6 +25,7 @@ ul {
 
 body {
     background-image: url("Pictures/Waal.jpg"), url("Pictures/fool.jpg"), url("Pictures/magician.jpg"), url("Pictures/Priestress.jpg"), url("Pictures/emperor.jpg"), url("Pictures/empress.jpg"), url("Pictures/hirophant.jpg");
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, ;
     background-position: right top, center top, left top, right center, left center, left bottom, right bottom;
     background-size: 13%, 13%, 13%, 13%, 13%, 13%, 13%;
 }
