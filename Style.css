@@ -32,7 +32,7 @@ iframe {
 nav div {
     flex-direction: row;
     box-sizing: border-box;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
 }
 
 nav a {
@@ -42,7 +42,7 @@ nav a {
     border: 3px;
     border-color: purple;
     padding: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
