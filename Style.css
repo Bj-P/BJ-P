@@ -52,6 +52,17 @@ ul {
     color: white;
 }
 
+li {
+    color: silver;
+    font-style: oblique;
+    font-family: fantasy;
+    border: 3px;
+    border-color: purple;
+    padding: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
 img {
     display: block;
     margin-left: auto;
