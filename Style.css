@@ -37,6 +37,11 @@ nav div {
     box-sizing: border-box;
 }
 
+nav a {
+    border: 3px;
+    border-color: purple;
+}
+
 ul {
     color: mediumvioletred;
 }
