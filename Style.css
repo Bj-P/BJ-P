@@ -44,8 +44,12 @@ nav a {
     text-align: center;
 }
 
+drection {
+    color: thistle;
+}
+
 ul {
-    color: mediumvioletred;
+    color: white;
 }
 
 img {
