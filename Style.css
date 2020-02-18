@@ -29,6 +29,12 @@ iframe {
     margin-right: auto;
 }
 
+p {
+    color: gold;
+    font-style: oblique;
+    font-family: fantasy;
+}
+
 ul {
     color: mediumvioletred;
 }
