@@ -40,6 +40,24 @@ nav div {
 nav a {
     border: 3px;
     border-color: purple;
+    border: 2px solid green;
+    border-top-color: green;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-right-color: green;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-bottom-color: green;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-color: green;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
 }
 
 ul {
