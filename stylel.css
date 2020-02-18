@@ -18,10 +18,11 @@ nav div {
     flex-direction: row;
     box-sizing: border-box;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 nav a {
-    color: gold;
+    color: purple;
     font-style: oblique;
     font-family: fantasy;
     border: 3px;
