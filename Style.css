@@ -26,6 +26,7 @@ iframe {
 }
 
 nav div {
+    margin-left: 50px;
     flex-direction: row;
     box-sizing: border-box;
     margin-bottom: 50px;
