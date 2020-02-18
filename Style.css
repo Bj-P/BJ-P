@@ -53,7 +53,6 @@ ul {
 }
 
 li {
-    color: silver;
     font-style: oblique;
     font-family: fantasy;
     border: 3px;
@@ -61,6 +60,10 @@ li {
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
+}
+
+a {
+    color: silver;
 }
 
 img {
