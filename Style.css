@@ -8,17 +8,8 @@ h2 {
     color: mediumturquoise;
 }
 
-a {
-    color: gainsboro;
-    position: sticky;
-}
-
-ul {
-    position: sticky;
-}
-
 c {
-    margin-left: auto;
+    margin-left: 50px;
     text-align: center;
     color: rgb(167, 245, 157);
 }
