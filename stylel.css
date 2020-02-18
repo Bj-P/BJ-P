@@ -1,14 +1,17 @@
 h1 {
+    margin-left: 50px;
     font-family: fantasy;
     color: rgb(0, 183, 255);
 }
 
 h2 {
+    margin-left: 50px;
     font-family: sans-serif;
     color: mediumturquoise;
 }
 
 a {
+    margin-left: 50px;
     color: gainsboro;
     position: sticky;
     top: 10;
