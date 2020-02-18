@@ -33,6 +33,7 @@ nav div {
     flex-direction: row;
     box-sizing: border-box;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 nav a {
