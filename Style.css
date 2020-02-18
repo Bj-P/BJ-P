@@ -29,10 +29,12 @@ iframe {
     margin-right: auto;
 }
 
-p {
+nav div {
     color: gold;
     font-style: oblique;
     font-family: fantasy;
+    flex-direction: row;
+    box-sizing: border-box;
 }
 
 ul {
