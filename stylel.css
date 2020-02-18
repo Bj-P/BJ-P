@@ -18,6 +18,12 @@ ul {
     color: mediumvioletred;
 }
 
+p {
+    color: gold;
+    font-style: oblique;
+    font-family: fantasy;
+}
+
 img {
     display: block;
     margin-left: auto;
