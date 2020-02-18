@@ -30,14 +30,14 @@ iframe {
 }
 
 nav div {
-    color: gold;
-    font-style: oblique;
-    font-family: fantasy;
     flex-direction: row;
     box-sizing: border-box;
 }
 
 nav a {
+    color: gold;
+    font-style: oblique;
+    font-family: fantasy;
     border: 3px;
     border-color: purple;
     padding: 20px;
