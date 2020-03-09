@@ -1,7 +1,7 @@
 h1 {
     margin-left: 50px;
     font-family: fantasy;
-    color: rgb(0, 183, 255);
+    color: rgba(0, 0, 0, 0.973);
     font-size: 40px;
 }
 
@@ -28,11 +28,11 @@ nav div {
 
 nav a {
     color: aquamarine;
-    text-size-adjust: 20px;
     font-style: oblique;
     font-family: fantasy;
-    border: 3px;
-    border-color: purple;
+    border: 3px solid;
+    background-color: rgba(97, 163, 97, 0.205);
+    border-color: salmon;
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
