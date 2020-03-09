@@ -52,7 +52,7 @@ nav a {
 }
 
 
-/* die bIlder alle nebeneinander */
+/* die Bilder alle übereinander mit abstände in form von borders  */
 
 img {
     display: block;
@@ -60,19 +60,14 @@ img {
     margin-right: auto;
     width: 33%;
     border-radius: 8px;
-    border: 5px solid black;
+    border: 15px solid black;
 }
+
+
+/* Hintergrundsbild angepasst und seiten bedeckend */
 
 body {
     background-image: url("Pictures/Paper.jpg");
     background-repeat: repeat;
     background-size: contain;
 }
-
-
-/*body {
-    background-image: url("Pictures/Waal.jpg"), url("Pictures/fool.jpg"), url("Pictures/magician.jpg"), url("Pictures/Priestress.jpg"), url("Pictures/emperor.jpg"), url("Pictures/empress.jpg"), url("Pictures/hirophant.jpg");
-    background-repeat: no-repeat;
-    background-size: 35%;
-    background-position: left bottom, left, right, left top, right top, top, right bottom;
-}*
