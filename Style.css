@@ -31,7 +31,7 @@ iframe {
 nav div {
     margin-left: auto;
     flex-direction: row;
-    box-sizing: 20px black;
+    box-sizing: border-box;
     margin-bottom: 50px;
     margin-top: 20px;
 }
@@ -40,7 +40,8 @@ nav a {
     color: gold;
     font-style: oblique;
     font-family: fantasy;
-    border: 3px;
+    border: 3px solid;
+    background-color: black;
     border-color: purple;
     padding: 20px;
     padding-bottom: 10px;
