@@ -1,3 +1,5 @@
+/* Style of Titel color and font size and style */
+
 h1 {
     margin-left: 50px;
     font-family: fantasy;
@@ -5,18 +7,26 @@ h1 {
     font-size: 40px;
 }
 
+
+/* Style of Sub title similar to first  */
+
 h2 {
     margin-left: 50px;
     font-family: sans-serif;
     color: mediumturquoise;
 }
 
+
+/* text für links -> witer center angafangen nicht ganz links */
+
 a {
     margin-left: 50px;
-    color: gainsboro;
-    position: sticky;
     top: 10;
+    color: lightgoldenrodyellow;
 }
+
+
+/* Navigations balken -> in einer reihe und dazu abstand gegen unten */
 
 nav div {
     margin-left: auto;
@@ -25,6 +35,9 @@ nav div {
     margin-bottom: 50px;
     margin-top: 50px;
 }
+
+
+/* Eigentliche Text von den Links zu den anderen Seiten */
 
 nav a {
     color: aquamarine;
@@ -37,6 +50,9 @@ nav a {
     padding-bottom: 10px;
     text-align: center;
 }
+
+
+/* die bIlder alle nebeneinander */
 
 img {
     display: block;
