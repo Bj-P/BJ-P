@@ -117,3 +117,16 @@ body {
     background-image: url("Pictures/Wallpaper.jpg");
     background-size: 200px 410px, cover;
 }
+
+table {
+    color: ivory;
+    margin-left: 30px;
+}
+
+th {
+    border: 10px solid green;
+}
+
+td {
+    border: 2px solid ivory;
+}
