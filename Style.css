@@ -1,9 +1,14 @@
+/* Style of Titel color and font size and style */
+
 h1 {
     margin-left: 50px;
     font-family: fantasy;
     color: rgb(0, 183, 255);
     font-size: 40px;
 }
+
+
+/* Style of Sub title similar to first  */
 
 h2 {
     margin-left: 50px;
@@ -12,9 +17,16 @@ h2 {
     padding-bottom: 10px;
 }
 
+
+/* P is t ein paraghraph wo ich meistens text einfüge margin ist damit der text mehr gegen mitte anfängt ohne in der mitte zu sein */
+
 p {
     margin-left: 50px;
 }
+
+
+/* C ist der eigentliche text und erhält dafür auch verschiedene eigenschaften -> ich tue kein text selber in pa rein damit ich verschiedene text sorten machen c
+kann à la anstatt c verschiedene buchstaben */
 
 c {
     text-align: center;
@@ -23,11 +35,17 @@ c {
     margin-bottom: 50px;
 }
 
+
+/* Sind eingebetete Vidoes oder andere flash spiele -> ich habe sie nebeneinander aufgereiht damit eess übersichtlicher ist  */
+
 iframe {
     display: row;
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/* das ist das navigations bar (ohne text) oben hier habe ich sie nebeneinander und mit abstand zum titel und nachkommendem content */
 
 nav div {
     margin-left: auto;
@@ -36,6 +54,9 @@ nav div {
     margin-bottom: 50px;
     margin-top: 20px;
 }
+
+
+/* der eigentliche text schön designed mit farben und hintergrund dahinter mit der box die ersichtlich ist  */
 
 nav a {
     color: gold;
@@ -49,13 +70,15 @@ nav a {
     text-align: center;
 }
 
-drection {
-    color: thistle;
-}
+
+/* für die liste einfach eine farbe  */
 
 ul {
     color: white;
 }
+
+
+/* Da ist der text teil für die listen  */
 
 li {
     font-style: oblique;
@@ -67,10 +90,16 @@ li {
     text-align: center;
 }
 
+
+/* da sind meine links  */
+
 a {
     color: silver;
     font-size: 100%;
 }
+
+
+/* da sind die Bilder centriert mit rand damit sie schön aussehen */
 
 img {
     display: block;
@@ -80,6 +109,9 @@ img {
     border: 5px solid black;
     border-radius: 1px;
 }
+
+
+/* Wallpaper damit es alles bedeckt wird  */
 
 body {
     background-image: url("Pictures/Wallpaper.jpg");
