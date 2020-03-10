@@ -123,9 +123,15 @@ table {
     margin-left: 30px;
 }
 
+
+/* Design für die erste Zeile */
+
 th {
     border: 10px solid green;
 }
+
+
+/* Design für die anderen Zeilen */
 
 td {
     border: 2px solid ivory;
