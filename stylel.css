@@ -51,6 +51,11 @@ nav a {
     text-align: center;
 }
 
+nav a:hover {
+    color: rgba(88, 86, 86, 0.993);
+    background-color: indigo;
+}
+
 
 /* die Bilder alle übereinander mit abstände in form von borders  */
 
