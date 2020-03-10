@@ -63,7 +63,7 @@ nav a {
     font-style: oblique;
     font-family: fantasy;
     background-image: url(/Pictures/navbar.jpg);
-    background-size: cover;
+    background-size: 10px 20px cover;
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
@@ -119,7 +119,7 @@ img {
 
 body {
     background-image: url("Pictures/Wallpaper.jpg");
-    background-size: 200px 410px, cover;
+    background-size: 100px 210px, cover;
 }
 
 table {
