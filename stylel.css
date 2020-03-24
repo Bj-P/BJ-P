@@ -56,14 +56,14 @@ nav a:hover {
     background-color: indigo;
 }
 
-img:hover {
+i:hover {
     filter: blur(50);
 }
 
 
 /* die Bilder alle übereinander mit abstände in form von borders  */
 
-img {
+i {
     display: block;
     margin-left: auto;
     margin-right: auto;
