@@ -60,7 +60,7 @@ i {
     margin-top: 0cm;
 }
 
-i:hover {
+img:hover {
     filter: blur(50%);
 }
 
