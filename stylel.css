@@ -63,7 +63,7 @@ i:hover {
 
 /* die Bilder alle übereinander mit abstände in form von borders  */
 
-i {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
