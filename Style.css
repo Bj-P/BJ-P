@@ -5,7 +5,7 @@ h1 {
     font-family: fantasy;
     color: rgb(0, 183, 255);
     font-size: 40px;
-    animation: animate 3s linear infinite;
+    animation: animate 3s vertical infinite;
     color: #fff;
     background: linear-gradient(120deg, black, darkgrey, gray, lightgrey, white);
     background-size: 400%;
