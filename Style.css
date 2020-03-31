@@ -57,10 +57,7 @@ nav div {
     background-size: 10px 20px cover;
 }
 
-
-/* der eigentliche text schön designed mit farben und hintergrund dahinter mit der box die ersichtlich ist  */
-
-nav a {
+nav {
     animation: animate 2s linear infinite;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -68,6 +65,12 @@ nav a {
     background: linear-gradient(120deg, rgb(169, 197, 129), rgb(150, 199, 121), purple, red, orange, yellow, lightblue, lightgrey, rgb(177, 241, 160));
     background-size: 200%;
     filter: blur(70);
+}
+
+
+/* der eigentliche text schön designed mit farben und hintergrund dahinter mit der box die ersichtlich ist  */
+
+nav a {
     font-style: oblique;
     font-family: fantasy;
     padding: 20px;
@@ -75,7 +78,7 @@ nav a {
     text-align: center;
 }
 
-nav a:hover {
+nav :hover {
     background: linear-gradient(120deg, rgb(139, 0, 231), rgb(230, 7, 163), rgb(238, 188, 82), rgb(55, 238, 19), rgb(5, 63, 150), );
     animation: animate 2s linear infinite;
     z-index: 1;
