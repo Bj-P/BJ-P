@@ -58,7 +58,7 @@ nav div {
 nav {
     animation: animate 2s linear infinite;
     color: #fff;
-    background: linear-gradient(120deg, rgb(169, 197, 129), rgb(150, 199, 121), purple, red, orange, yellow, lightblue, lightgrey, rgb(177, 241, 160));
+    background: linear-gradient(120deg, rgb(169, 197, 129), rgb(150, 199, 121), purple, red, orange, yellow, lightblue, blue lightgrey, rgb(177, 241, 160));
     background-size: 200%;
     filter: blur();
 }
