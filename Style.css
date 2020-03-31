@@ -67,6 +67,7 @@ nav a {
     text-transform: capitalize;
     background: linear-gradient(120deg, rgb(169, 197, 129), rgb(150, 199, 121), purple, red, orange, yellow, lightblue, lightgrey, rgb(177, 241, 160));
     background-size: 200%;
+    filter: blur(70);
     font-style: oblique;
     font-family: fantasy;
     padding: 20px;
