@@ -68,8 +68,6 @@ nav {
 nav a {
     font-style: oblique;
     font-family: fantasy;
-    padding: 40px;
-    padding-bottom: 10px;
     text-align: center;
 }
 
@@ -126,7 +124,7 @@ img {
     margin-right: auto;
     width: 30%;
     border: 5px solid black;
-    border-radius: 8px;
+    border-radius: 1px;
 }
 
 
