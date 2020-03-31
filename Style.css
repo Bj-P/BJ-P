@@ -39,7 +39,6 @@ c {
 /* Sind eingebetete Vidoes oder andere flash spiele -> ich habe sie nebeneinander aufgereiht damit eess übersichtlicher ist  */
 
 iframe {
-    display: row;
     margin-left: auto;
     margin-right: auto;
 }
@@ -49,12 +48,11 @@ iframe {
 
 nav div {
     margin-left: auto;
-    flex-direction: row;
+    flex: row;
     box-sizing: border-box;
     margin-bottom: 50px;
     margin-top: 20px;
-    background-image: url(/Pictures/navbar.jpg);
-    background-size: 10px 20px cover;
+    ;
 }
 
 nav {
