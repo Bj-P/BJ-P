@@ -74,8 +74,16 @@ nav a {
 }
 
 nav a:hover {
-    color: rgba(88, 86, 86, 0.993);
-    background-color: indigo;
+    animation: animate 8s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 200%;
+    }
 }
 
 
