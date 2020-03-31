@@ -89,8 +89,6 @@ ul {
 li {
     font-style: oblique;
     font-family: fantasy;
-    border: 3px;
-    border-color: purple;
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
@@ -100,8 +98,11 @@ li {
 /* da sind meine links  */
 
 a {
-    color: silver;
-    font-size: 100%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-transform: capitalize;
+    background: linear-gradient(90deg, blue, red, yellow, green);
+    background-size: 200%;
 }
 
 
