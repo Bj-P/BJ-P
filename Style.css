@@ -75,6 +75,7 @@ nav a {
 }
 
 nav :hover {
+    background-blend-mode: hard-light;
     filter: invert();
     animation: animate 3s linear infinite;
     z-index: 1;
