@@ -61,7 +61,7 @@ nav div {
 /* der eigentliche text schön designed mit farben und hintergrund dahinter mit der box die ersichtlich ist  */
 
 nav a {
-    animation: animate 4s linear infinite;
+    animation: animate 3s linear infinite;
     transform: translate(-50%, -50%);
     color: #fff;
     text-transform: capitalize;
@@ -75,7 +75,8 @@ nav a {
 }
 
 nav a:hover {
-    animation: animate 4s linear infinite;
+    background: linear-gradient(90deg, rgb(139, 0, 231), rgb(230, 7, 163), rgb(238, 188, 82), rgb(55, 238, 19), rgb(5, 63, 150), );
+    animation: animate 3s linear infinite;
 }
 
 @keyframes animate {
