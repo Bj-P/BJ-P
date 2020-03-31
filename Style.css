@@ -61,11 +61,13 @@ nav div {
 /* der eigentliche text schön designed mit farben und hintergrund dahinter mit der box die ersichtlich ist  */
 
 nav a {
-    color: gold;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-transform: capitalize;
+    background: linear-gradient(90deg, blue, red, yellow, green);
+    background-size: 200%;
     font-style: oblique;
     font-family: fantasy;
-    background-image: url(/Pictures/navbar.jpg);
-    background-size: 10px 20px cover;
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
@@ -98,11 +100,10 @@ li {
 /* da sind meine links  */
 
 a {
-    transform: translate(-50%, -50%);
-    color: #fff;
-    text-transform: capitalize;
-    background: linear-gradient(90deg, blue, red, yellow, green);
-    background-size: 200%;
+    text-align: center;
+    color: rgb(167, 245, 157);
+    font-size: 25px;
+    margin-bottom: 50px;
 }
 
 
