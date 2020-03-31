@@ -7,7 +7,7 @@ h1 {
     font-size: 40px;
     animation: animate 3s linear reverse infinite;
     color: #fff;
-    background: linear-gradient(120deg, white, lightgrey, gray, darkgray, black);
+    background: linear-gradient(120deg, white, lightgrey, gray, rgb(68, 68, 68), black);
     background-size: 400%;
 }
 
