@@ -1,14 +1,4 @@
-/*
- * nodes.js is a nodes/particles animation useable for backgrounds
- *
- * http://oguzhaneroglu.com/projects/nodes.js/
- * https://github.com/rohanrhu/nodes.js
- *
- * Copyright (C) 2018, Oğuzhan Eroğlu <rohanrhu2@gmail.com>
- * Licensed under MIT
- * 
- */
-
+/* Defining the Nodes */
 var NodesJs = (function(parameters) {
     t_NodesJs = this;
     t_NodesJs.id = parameters.id;
