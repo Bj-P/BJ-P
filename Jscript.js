@@ -1,4 +1,4 @@
-var Bpixel = newBpixel({
+var nodesjs = new NodesJs({
     id: 'nodes',
     width: window.innerWidth,
     height: window.innerHeight,
