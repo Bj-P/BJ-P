@@ -1,0 +1,1 @@
+var trippybackground = document.onload();
