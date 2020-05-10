@@ -11,10 +11,10 @@ var NodesJs = (function(parameters) {
     t_NodesJs.backgroundFrom = parameters.backgroundFrom;
     t_NodesJs.backgroundTo = parameters.backgroundTo;
     t_NodesJs.backgroundDuration = parameters.backgroundDuration;
-    t_NodesJs.number = parameters.number ? parameters.number : 100;
+    t_NodesJs.number = parameters.number ? parameters.number : 80;
     t_NodesJs.speed = parameters.speed ? parameters.speed : 20;
     t_NodesJs.nobg = parameters.nobg ? parameters.nobg : false;
-    t_NodesJs.pointerCircleRadius = parameters.pointerCircleRadius ? parameters.pointerCircleRadius : 150;
+    t_NodesJs.pointerCircleRadius = parameters.pointerCircleRadius ? parameters.pointerCircleRadius : 100;
 
     var canvas;
     var ctx;
