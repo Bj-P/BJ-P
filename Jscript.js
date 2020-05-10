@@ -3,9 +3,9 @@ window.onload = function() {
     var context = canvas.getContext("2d");
     var widht = canvas.widht;
     var height = canvas.height;
-    var wallpaper = context.modifywallpaperdata(widht, height);
+    var wallpaper = context.createImageData(widht, height);
 
-    function modifywallpaper(offset) {
+    function createImage(offset) {
         for (var x = 0; x < width; x++) {
             for (var y = 0; y < height; y++) {
 
