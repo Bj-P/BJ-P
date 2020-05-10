@@ -1,1 +1,4 @@
-var trippybackground = document.onload();
+var canvas = document.getElementById("Pictures/Wallpaper.jpg");
+var trippy = function() {
+
+}
