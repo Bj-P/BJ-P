@@ -31,7 +31,7 @@ window.onload = function() {
                 imagedata.data[pixelindex] = red; // Red
                 imagedata.data[pixelindex + 1] = green; // Green
                 imagedata.data[pixelindex + 2] = blue; // Blue
-                imagedata.data[pixelindex + 3] = 255; // Alpha
+                imagedata.data[pixelindex + 3] = 50; // Alpha
             }
         }
     }
