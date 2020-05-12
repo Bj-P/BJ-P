@@ -158,3 +158,7 @@ th {
 td {
     border: 2px solid ivory;
 }
+
+canvas {
+    size: fill;
+}
