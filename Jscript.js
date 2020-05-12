@@ -14,8 +14,8 @@ window.onload = function() {
     // Create the image
     function createImage(offset) {
         // Loop over all of the pixels
-        for (var x = 0; x < width; x++) {
-            for (var y = 0; y < height; y++) {
+        for (var x = 1; x < width; x++) {
+            for (var y = 1; y < height; y++) {
                 // Get the pixel index
                 var pixelindex = (y * width + x) * 4;
 
