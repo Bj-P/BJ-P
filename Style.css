@@ -171,3 +171,7 @@ canvas {
     z-index: -1;
     position: relative;
 }
+
+div {
+    opacity: .99;
+}
