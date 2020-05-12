@@ -17,7 +17,7 @@ window.onload = function() {
         for (var x = 0; x < width; x++) {
             for (var y = 0; y < height; y++) {
                 // Get the pixel index
-                var pixelindex = (y * width + x) * 4;
+                var pixelindex = (y * width + x) * 12;
 
                 // Generate a xor pattern with some random noise
                 var red = ((x + offset) % 256) ^ ((y + offset) % 256);
