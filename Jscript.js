@@ -32,6 +32,7 @@ window.onload = function() {
                 imagedata.data[pixelindex + 1] = green; // Green
                 imagedata.data[pixelindex + 2] = blue; // Blue
                 imagedata.data[pixelindex + 3] = 75; // Alpha
+                imagedata.data[pixelindex + 4] = purple;
             }
         }
     }
