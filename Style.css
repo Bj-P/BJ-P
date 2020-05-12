@@ -109,7 +109,6 @@ li {
     padding-bottom: 10px;
     text-align: center;
     z-index: 1;
-    position: relative;
 }
 
 
@@ -121,7 +120,6 @@ a {
     font-size: 25px;
     margin-bottom: 50px;
     z-index: 1;
-    position: relative;
 }
 
 
@@ -135,7 +133,6 @@ img {
     border: 5px solid black;
     border-radius: 1px;
     z-index: 1;
-    position: relative;
 }
 
 
@@ -168,7 +165,7 @@ td {
 canvas {
     height: 100%;
     width: 100%;
-    z-index: -1;
+    z-index: 0;
 }
 
 div {
