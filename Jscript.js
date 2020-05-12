@@ -42,7 +42,7 @@ window.onload = function() {
         window.requestAnimationFrame(main);
 
         // Create the image
-        createImage(Math.floor(tframe / 10));
+        createImage(Math.floor(tframe / 20));
 
         // Draw the image data to the canvas
         context.putImageData(imagedata, 0, 0);
