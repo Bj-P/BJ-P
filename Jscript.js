@@ -18,6 +18,7 @@ window.onload = function() {
             for (var y = 1; y < height; y++) {
                 // Get the pixel index
                 var pixelindex = (y * width + x) * 4;
+                var pixelindex2 = -(y * height + x) * 4;
 
                 // Generate a xor pattern with some random noise -> size of the Pixels
                 var red = ((x + offset + 2) % 256) ^ ((y + offset + 2) % 256);
@@ -32,6 +33,8 @@ window.onload = function() {
                 imagedata.data[pixelindex + 1] = green; // Green
                 imagedata.data[pixelindex + 2] = blue; // Blue
                 imagedata.data[pixelindex + 3] = 75; // Alpha
+
+
             }
         }
     }
