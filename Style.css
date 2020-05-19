@@ -1,7 +1,7 @@
 /* Style of Titel color and font size and style */
 
 h1 {
-    margin-left: 50px;
+    margin-top: -100px;
     font-family: fantasy;
     color: rgb(0, 183, 255);
     font-size: 40px;
@@ -15,17 +15,10 @@ h1 {
 /* Style of Sub title similar to first  */
 
 h2 {
-    margin-left: 50px;
+    margin-top: -100px;
     font-family: sans-serif;
     color: mediumturquoise;
     padding-bottom: 10px;
-}
-
-
-/* P is t ein paraghraph wo ich meistens text einfüge margin ist damit der text mehr gegen mitte anfängt ohne in der mitte zu sein */
-
-p {
-    margin-left: 50px;
 }
 
 
@@ -36,27 +29,13 @@ c {
     text-align: center;
     color: rgb(167, 245, 157);
     font-size: 25px;
-    margin-bottom: 50px;
 }
 
 
 /* Sind eingebetete Vidoes oder andere flash spiele -> ich habe sie nebeneinander aufgereiht damit eess übersichtlicher ist  */
 
-iframe {
-    margin-left: auto;
-    margin-right: auto;
-}
-
 
 /* das ist das navigations bar (ohne text) oben hier habe ich sie nebeneinander und mit abstand zum titel und nachkommendem content */
-
-nav {
-    margin-left: auto;
-    flex: row;
-    margin-bottom: 50px;
-    margin-top: 20px;
-    ;
-}
 
 nav {
     animation: animate 3s linear infinite;
@@ -72,8 +51,6 @@ nav {
 nav a {
     font-style: oblique;
     font-family: fantasy;
-    padding: 20px;
-    text-align: center;
 }
 
 nav :hover {
@@ -92,6 +69,14 @@ nav :hover {
 
 .viewport {
     z-index: 1;
+}
+
+.Header1 {
+    z-index: 3;
+}
+
+.Header2 {
+    z-index: 3s;
 }
 
 @keyframes animate {
@@ -116,9 +101,6 @@ ul {
 li {
     font-style: oblique;
     font-family: fantasy;
-    padding: 20px;
-    padding-bottom: 10px;
-    text-align: center;
 }
 
 
@@ -128,16 +110,12 @@ a {
     text-align: center;
     color: black;
     font-size: 25px;
-    margin-bottom: 50px;
 }
 
 
 /* da sind die Bilder centriert mit rand damit sie schön aussehen */
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 30%;
     border: 5px solid black;
     border-radius: 1px;
