@@ -37,6 +37,7 @@ c {
     color: rgb(167, 245, 157);
     font-size: 25px;
     margin-bottom: 50px;
+    z-index: 2;
 }
 
 
@@ -91,7 +92,7 @@ nav :hover {
 }
 
 .viewport {
-    z-index: 0;
+    z-index: 1;
 }
 
 @keyframes animate {
