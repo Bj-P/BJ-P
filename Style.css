@@ -90,6 +90,10 @@ nav :hover {
     z-index: 2;
 }
 
+.viewport {
+    z-index: 0;
+}
+
 @keyframes animate {
     0% {
         background-position: 0%;
