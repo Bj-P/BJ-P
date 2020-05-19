@@ -37,7 +37,6 @@ c {
     color: rgb(167, 245, 157);
     font-size: 25px;
     margin-bottom: 50px;
-    z-index: 2;
 }
 
 
@@ -120,7 +119,6 @@ li {
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
-    z-index: 2;
 }
 
 
@@ -131,7 +129,6 @@ a {
     color: black;
     font-size: 25px;
     margin-bottom: 50px;
-    z-index: 2;
 }
 
 
@@ -144,7 +141,6 @@ img {
     width: 30%;
     border: 5px solid black;
     border-radius: 1px;
-    z-index: 2;
 }
 
 
@@ -177,5 +173,4 @@ td {
 canvas {
     height: 100%;
     width: 100%;
-    z-index: 1;
 }
