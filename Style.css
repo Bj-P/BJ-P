@@ -120,7 +120,7 @@ li {
     padding: 20px;
     padding-bottom: 10px;
     text-align: center;
-    z-index: 1;
+    z-index: 2;
 }
 
 
@@ -131,7 +131,7 @@ a {
     color: black;
     font-size: 25px;
     margin-bottom: 50px;
-    z-index: 1;
+    z-index: 2;
 }
 
 
@@ -144,7 +144,7 @@ img {
     width: 30%;
     border: 5px solid black;
     border-radius: 1px;
-    z-index: 1;
+    z-index: 2;
 }
 
 
