@@ -80,7 +80,14 @@ nav :hover {
     background-blend-mode: hard-light;
     filter: invert();
     animation: animate 3s linear infinite;
-    z-index: 1;
+}
+
+.navigation {
+    z-index: 2;
+}
+
+.txt {
+    z-index: 2;
 }
 
 @keyframes animate {
