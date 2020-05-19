@@ -51,7 +51,7 @@ iframe {
 
 /* das ist das navigations bar (ohne text) oben hier habe ich sie nebeneinander und mit abstand zum titel und nachkommendem content */
 
-nav div {
+nav {
     margin-left: auto;
     flex: row;
     margin-bottom: 50px;
