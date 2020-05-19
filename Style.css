@@ -92,6 +92,7 @@ nav :hover {
 }
 
 .viewport {
+    margin-top: -100px;
     z-index: 1;
 }
 
@@ -178,4 +179,5 @@ canvas {
     height: 100%;
     width: 100%;
     z-index: 1;
+    margin-top: -100%;
 }
